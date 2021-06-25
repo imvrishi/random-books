@@ -1,0 +1,16 @@
+Reduce HTTP request - Call file by php
+Stripping Whitespace from your HTML and CSS - Use  preg_replace
+Caching in your PHP Scripts
+
+Avoid needless copies of your variables
+Avoid string concatenations in loops - Use multi echo
+Avoid passing function variables by reference
+Avoid function tests in loop conditionals
+Avoid using relative paths
+Avoid methods with object instantiation in loops
+Avoid using period for “echo” function
+Avoid using regular expressions
+Avoid using double quotes for long strings without variables
+Avoid using include_once
+
+Use Gzip or other compression technique

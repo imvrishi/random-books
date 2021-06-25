@@ -1,0 +1,20 @@
+https:/ /www.youtube.com/get_video_info?video_id=AiI4-zVCi08&el=embedded&ps=default&eurl=&gl=US&hl=en
+
+https:/ /www.googleapis.com/youtube/v3/videos?id=7lCDEYXw3mM&key=AIzaSyCJbR7KzCeIQCGel2Pne-ju4fJxSixtPeA&part=snippet&fields=items(id,snippet(title,description))
+
+https:/ /www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=UUpRmvjdu3ixew5ahydZ67uA&key=AIzaSyCJbR7KzCeIQCGel2Pne-ju4fJxSixtPeA&fields=pageInfo,items(id,snippet(title,description,resourceId(videoId)))
+
+https:/ /www.googleapis.com/youtube/v3/channelSections?part=snippet,contentDetails&maxResults=50&key=AIzaSyCJbR7KzCeIQCGel2Pne-ju4fJxSixtPeA&channelId=UCYO_jab_esuFRV4b17AJtAw
+
+https:/ /www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCYO_jab_esuFRV4b17AJtAw&maxResults=50&key=AIzaSyCJbR7KzCeIQCGel2Pne-ju4fJxSixtPeA&fields=pageInfo,items(id,snippet(title,description))
+
+YD API Key - AIzaSyCJbR7KzCeIQCGel2Pne-ju4fJxSixtPeA
+
+Google Places API For Android
+AIzaSyCTuYcV4JqKMfnCBlR1uCgjVjrA1qTcMHw
+
+SHA1
+1A:91:D1:5A:EA:66:20:1A:CB:41:58:33:C9:09:0B:81:21:8D:69:C0
+
+OATH Client
+714978162301-oarlj6e6i4c8s3num0f0vfoglj1aqhct.apps.googleusercontent.com

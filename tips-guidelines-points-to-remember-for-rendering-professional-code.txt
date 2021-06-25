@@ -1,0 +1,53 @@
+This list is a start... you're asking a big question!
+
+How to clarify and write down what the customers wants ("requirements"). This is an art in and of itself. If you can do this, your programming job will be much better.
+How to estimate and project plan. People will ask you for an estimate, be prepared.
+How to constructively review other people's code.
+Design patterns. This is a big one. But don't overzealously use them for the sake of it.
+Learn the difference between a bug, issue and feature requests
+Keep up to date with frameworks/libraries. You don't have to use them, but you need to know what they do and their pro's/con's. If something seems way too hard then there's probably (hopefully) a much easier way of doing things.
+How to document complicated algorithms in a flowchart or just write it out in english. Don't expect that someone will spend 2 days trying to reverse engineer your code.
+How to organise your code structure so that anyone else can understand it
+How to comment your code
+How to write unit tests
+Know what's going on under the hood. Eg calling a web service - what's it actually doing?
+How to abstract away logic into classes.
+How to refactor code
+Learn the gist of quite a few programming languages. You'd be surprised what you can learn from other areas
+How to tell other programmers what to write.
+How to explain to management what you're doing and why.
+Like Peter said, how to debug. I agree with everything he says, real programmers debug, not just guess.
+How to work with maniacs. There's a lot of them out there.
+How to GET STUFF DONE. All the theory in the world won't help you if you can't get stuff done.
+------------------------------------------
+
+Consistency is king. Pick a naming/capitalization standard and stick with it. If you're confident, come up with your own, but it'll be much easier if you grab an already existing standard
+Comment your functions by explaining what they are trying to do. Not what each line of code does but more like "this function take in 2 numbers, multiplies them and returns the result"
+Group relevant functions together into well named classes - not as easy as it sounds
+Get your error logging happening at the start of the project and log DEBUG, INFO, WARN and ERROR logs
+Get your error handling framework happening at the start of the project so it's consistent
+Don't plaster your name all over your code or put in stupid comments in your code (like "// warning, this is a hack because Y sux"). Don't use obscenities or racial language etc. Sounds too obvious? You'd be surprised.
+Don't go overboard in your design!! Just because you want it to be professional doesn't mean it has to have 6 layers and a million classes. Keep it simple!
+Don't re-invent the wheel. Very common for young grads. Use libraries that have already done the work for you!
+If you're doing web stuff, separate out your CSS and Javascript to separate files. Keep your Javascript simple.
+Write Unit Tests - keep it simple though.
+If you're talking to a database, create a database project that abstracts away the DB stuff from your front-end.
+Use a source code revision management tool. Which one? Any of them, just use one.
+Keep code file sizes smallish. Opinions vary but I reckon anything over 1000 lines should be broken up into smaller files.
+Don't hardcode filesystem paths, server names or "magic numbers". Use relative paths, put server names into a config file and use constants.
+Use relative URLs.
+Catch as many errors at compile-time if possible. Makes cleaning up your code easier.
+Don't be afraid to refactor stuff.
+Don't "optimise" your code if it doesn't need to be optimised. Premature optimisation will make your code a mess. Don't do anything stupid like reading 10 gig of data into ram too.
+Only cache stuff if you need to. Keep it simple.
+A few other non programmy things you're going to have to learn:
+
+How to estimate and project plan. People will ask you for an estimate, be prepared.
+Document the customers requirements. This will make things easier for you and them.
+Get someone (preferably experienced) to review your code after you've written a week or two's worth. It will only take them a few minutes to glance over it all to point out what will be obvious to them but not you.
+Learn about design patterns but don't overzealously use them for the sake of it.
+Backup your stuff.
+Keep track of bugs, issues and feature requests somehow (they are all different things). Just a text file is fine, but either way do it. Someone will eventually ask you for it.
+Keep up to date with frameworks/libraries so that you're not doing things a really old way that can be done quicker and easier with a new library. If it seems way to hard then there's probably (hopefully) a much easier way of doing things.
+If there's any complicated logic going on, document it somehow with a flowchart or just write it out in english. Don't expect that someone will spend 2 days trying to reverse engineer your code.
+I'd also suggest that as you're just out of college you won't get things right the first time, nor the second time (none of us do). My advice would be to try to join a team of experienced developers, learn for them, and then a few years later consider freelancing. But hey if you want to get stuck into it good luck :)

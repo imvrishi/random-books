@@ -1,0 +1,104 @@
+Web Development
+	Basic Front-End Developer
+		HTML
+		CSS
+		Javascript / jQuery
+	No Matter Which Route You Take
+		FTP & Web Host Setup (hostgator)
+		Basic Terminal Usage
+		Basic SSH
+		Git Basics
+		Learn How Client & Server Talk To Each Other
+		RESTful Web Services
+	Front-End Developer
+		ES6/ES2015 (Babel)
+		CSS Tools
+			Precompilers : SASS / LESS / Stylus
+			CSS Frameworks : Bootstrap / Foundation
+			Responsive Design with CSS
+		Task Runners
+			Gulp
+			Grunt
+		Dependency Management
+			Webpack
+			Browserify
+		Front End Build Tools
+			Bower
+			Yeoman.io
+		MV* JS Frameworks
+			React.js
+				Mobx
+				Flux
+				Redux
+				Relay
+				create-react-app
+			Angular.js
+			Ember.js
+			Vue.js
+			Clojurescript
+			Elm
+		Unit Testing
+			Mocha
+			Jasmine
+			Karma
+			enzyme (react)
+	Back-End Developer
+		Scripting Languages
+			Node.js (express, hapi)
+			Python (django, flask)
+			Ruby (Ruby on Rails, Sinatra)
+			PHP (Laravel, Symfony2, Lumen)
+		Functional Languages
+			Elixir
+			Scala
+			Clojure
+			Haskell
+		High-Performance/Compiled Languages
+			Go / GoLang
+			Rust
+			Java
+			C#
+		Caching
+			Nginx (Server)
+			Apache (Server)
+			Database (Redis)
+			In-Memory
+		Data
+			Relational: MySQL, PostgreSQL
+			Redis / sessions / caching
+			Document: MongoDB, Couchbase, RethinkDB
+			Search Engine: ElasticSearch, Solr
+		Things to Learn
+			Unit/Functional Testing for Chosen Technology
+			API's / RESTful Services
+			Security
+				OAUTH2
+				JSON WebToken
+			SOA (Service Oriented Architecture) / Microservices
+			Deploying your app (flightplan: nodejs, Fabric: python, Capistrano: ruby)
+			websocket
+			ORM/Data Structure
+	DevOps﻿
+		Web Platforms
+			Digital Ocean
+			Amazon Web Services
+			Azure
+			Rackspace
+			Heroku
+		Server Management (configuration management)
+			Linux
+			Docker
+			Ansible
+			Salt
+			Chef
+			Puppet
+		Docker (containerized applications and databases)
+			Big Scale: Kubernetes, Mesos
+			Small Scale: Docker Swarm, Docker 1.12 swarm
+			UI-Driven: Rancher, Docker Cloud, Docker Datacenter/Universal Control Plane
+		Continuous Testing & Deployment
+			Jenkins (on your own hardware)
+			SemaphoreCI
+			CircleCI
+			Codeship
+		Vagrant (local environment development)
